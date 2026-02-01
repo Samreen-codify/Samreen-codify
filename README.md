@@ -1,3 +1,24 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I'm Samreen
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<h3 align="center"> 🤖 Full Stack web developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming+ideas+to+Reality;Making+Responsive+websites;Love+to+do+fun+projects&center=true&width=600&height=50&color=0080ff&vCenter=true&size=24">
+</p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Samreen-codify&label=Profile%20Views&color=blue&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/Samreen-codify?label=Followers&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/Samreen-codify?label=Stars&style=social)
+  
+</div>
+
+---
 # 💫 About Me:
 🔭 I’m currently doing bachelors in Computer Science.<br>👯 I’m looking to collaborate on fun websites.<br>🤝 I’m looking for help with amazing ideas to work on.<br>🌱 I’m currently learning full stack web development.<br>
 
