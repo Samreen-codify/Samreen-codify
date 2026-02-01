@@ -22,7 +22,6 @@
 # 💫 About Me:
 🔭 I’m currently doing bachelors in Computer Science.<br>👯 I’m looking to collaborate on fun websites.<br>🤝 I’m looking for help with amazing ideas to work on.<br>🌱 I’m currently learning full stack web development.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samreen-580b12337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssamreen666789@gmail.com) 
 
@@ -51,6 +50,10 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
+
+<div align="center">
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
+</div>
 
 ---
 
