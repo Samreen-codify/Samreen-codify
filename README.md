@@ -38,8 +38,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Samreen-codify&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
