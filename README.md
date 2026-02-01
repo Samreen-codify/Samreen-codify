@@ -15,9 +15,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Samreen-codify&icon=0&color=0)](https://visitcount.itsvg.in)
 
-// Mood Generator
-const moods = ["😄 Happy", "😴 Sleepy", "🤯 Overthinking", "🔥 Motivated"];
-console.log("Today's Mood:", moods[Math.floor(Math.random() * moods.length)]);
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
